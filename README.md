@@ -92,6 +92,19 @@ The dataset and model are excluded from version control. Use the supplied datase
 
 Run commands from the project root.
 
+## FastAPI
+
+The project also provides an optional FastAPI endpoint for uploading
+and enhancing individual images.
+
+### Start the API
+
+Activate the virtual environment and run:
+
+```bash
+python -m pip install -r requirements.txt
+python -m uvicorn app:app --reload
+
 ### Classical Enhancement
 
 ```bash
