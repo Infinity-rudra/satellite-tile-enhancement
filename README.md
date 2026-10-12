@@ -83,8 +83,9 @@ models/EDSR_x2.pb
 
 **Dataset:** Download the assignment dataset from the [provided Google Drive folder](https://drive.google.com/drive/folders/1oXTAUiFQPQso13NRznnecdWwj5z-cYgV) and place the input images in the `data/` directory.
 
-**Pretrained model:** Download the pretrained `EDSR_x2.pb` model from the [official OpenCV repository](https://github.com/opencv/opencv_contrib/blob/4.x/modules/dnn_superres/samples/EDSR_x2.pb). Save the downloaded file as `models/EDSR_x2.pb`.
+**Pretrained model:** Download the pretrained `EDSR_x2.pb` model from the [Saafke/EDSR_Tensorflow repository](https://github.com/Saafke/EDSR_Tensorflow/tree/master/models). The direct download link is [EDSR_x2.pb](https://raw.githubusercontent.com/Saafke/EDSR_Tensorflow/master/models/EDSR_x2.pb). Save the file as `models/EDSR_x2.pb`.
 
+The dataset and model are excluded from version control. Follow the applicable usage and redistribution terms before redistributing either asset.
 The dataset and model are excluded from version control. Use the supplied dataset for the assignment and follow the applicable usage and redistribution terms. Do not redistribute the dataset or pretrained model unless you have permission to do so.
 
 ## 5. Usage
