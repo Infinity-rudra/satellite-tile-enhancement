@@ -1,0 +1,24 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+venv/
+
+# IDE and OS files
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Generated output folders
+out/
+out_classical/
+out_edsr/
+sr_test/
+
+# Temporary test files
+
+# Dataset and pretrained model (check redistribution permissions)
+data/
+models/
