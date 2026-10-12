@@ -81,7 +81,11 @@ Ensure the input images are available in `data/` and the compatible pretrained E
 models/EDSR_x2.pb
 ```
 
-**Important:** The dataset and model are excluded from version control. Obtain them only from sources you are authorized to use, and follow the applicable licensing and redistribution terms.
+**Dataset:** Download the assignment dataset from the [provided Google Drive folder](https://drive.google.com/drive/folders/1oXTAUiFQPQso13NRznnecdWwj5z-cYgV) and place the input images in the `data/` directory.
+
+**Pretrained model:** Place the compatible EDSR x2 model at `models/EDSR_x2.pb`.
+
+The dataset and model are excluded from version control. Use the supplied dataset for the assignment and follow the applicable usage and redistribution terms. Do not redistribute the dataset or pretrained model unless you have permission to do so.
 
 ## 5. Usage
 
